@@ -16,6 +16,8 @@ There are two ways you can explore CSI samples with: Terminal and Browser. You w
 - `pip install numpy matplotlib` for Terminal.
 - `pip install numpy streamlit` for Browser.
 
+Add your PCAP files to the `files` folder.
+
 - `python main.py` to run the Terminal explorer.
 - `streamlit run app.py` to run in the Broswer.
 
