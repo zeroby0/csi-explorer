@@ -1,3 +1,10 @@
+# Deprecated
+
+CSI Explorer is deprecated.
+
+I made a new version, https://github.com/nexmonster/nexmon_csi/tree/feature/python/utils/python which is faster, and works with the 5.4.51 branch.
+
+
 # CSI Explorer
 
 This is an app to explore CSI samples collected via Nexmon_CSI.
